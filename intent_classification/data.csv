@@ -1,0 +1,47 @@
+text,intent
+how are you?,well_being
+hello,greeting
+see you later,leaving
+talk to you later,leaving
+how is the weather,weather
+whats the temperature,weather
+ok bye,leaving
+open camera,app_open
+open visual studio code,app_open
+open microsoft store,app_open
+open brave,app_open
+open google crome,app_open
+who are you,assist_intro
+what is your name,assist_intro
+your name,assist_intro
+hi,greeting
+good morning,greeting
+good evening,greeting
+exit,leaving
+bye,leaving
+how are you feeling?,well_being
+how you are?,well_being
+are you ok?,well_being
+how do you do?,well_being
+hey,greeting
+tell me about yourself?,assist_intro
+tell me about today's weather,weather
+how is the temperature,weather
+is it hot today?,weather
+send email,send_email
+play music,play_music
+play songs,play_music
+close camera,app_close
+close brave,app_close
+close spotify,app_close
+time,tell_time
+what's the time,tell_time
+what is the time,tell_time
+Tell me a Joke,joke
+make me laugh,joke
+send email,mailling
+open mail,mailling
+send mail,mailling
+what is today's date,reply_date
+what is today,reply_date
+tell me the date,reply_date
